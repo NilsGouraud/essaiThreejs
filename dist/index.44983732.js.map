@@ -1,0 +1,1 @@
+{"mappings":"AAAA,QAAQ,GAAG,CAAC;AAEZ,MAAM,OAAK,SAAS,aAAa,CAAC;AAClC,KAAK,WAAW,GAAC","sources":["src/script.js"],"sourcesContent":["console.log(\"hello there\");\n\nconst body=document.querySelector(\"body\");\nbody.textContent=\"alors, me revoilà assez vite\";"],"names":[],"version":3,"file":"index.44983732.js.map","sourceRoot":"/__parcel_source_root/"}
